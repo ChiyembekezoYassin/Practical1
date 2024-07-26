@@ -191,8 +191,29 @@ td, th {
 }
 .share{
   background-color: rgb(23, 2, 101);
+  
   color: white;
 }
 .more_btns{
   padding-top: 10px;
+  padding-bottom: 10px;
+}
+.update{
+  border-left: 5px solid rgb(5, 45, 5);
+  color: #b6eeaf;
+  width: 200%;
+  height: 50%;
+  background-color: green;
+  padding: 2px;
+}
+.lem{
+  margin-top: 20px;
+}
+.update2{
+  width: 200%;
+  padding: 5px;
+  height: 50%;
+  border-left:5px solid rgb(231, 31, 64);
+  background-color: palevioletred;
+  color: pink;
 }
